@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "312249f18c58241f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6746fdf10fbba80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "753e79f743385602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/컴퓨터 구조.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0b04d3b7e6ad4e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "359974582b2fe321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007524222dddb797",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "226ed38bee78602d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e07657b702de193",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d63e834e087781a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f15d6472963fce5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "452388b58536d64b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Files/컴퓨터 구조.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f28fd96d975e16b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Files/컴퓨터 구조.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2d269fa68929359",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0ae45b9411059f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Files/컴퓨터 구조.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "templates:템플릿 삽입": false
+    }
+  },
+  "active": "753e79f743385602",
+  "lastOpenFiles": [
+    "Seojun.md",
+    "Files/언어.md",
+    "Files/웹.md",
+    "Files/컴퓨터 구조.md",
+    "Files/Frontend.md",
+    "Files/Direct Mapped Cache.md",
+    "Files/Cache.md",
+    "Files/Virtual memory.md",
+    "Files/Control hazard.md",
+    "Files/Pipe line.md",
+    "Files/Bubble.md",
+    "Templete/Study Template.md",
+    "Files/forwarding.md",
+    "Files/Data hazard.md",
+    "Files/Structure hazard.md",
+    "Attachment/Control & forwarding data path.png",
+    "Attachment/instruction Control data path.png",
+    "Attachment/Pipe line data path.png",
+    "Attachment/Write back forward Data path.png",
+    "Attachment/PC branch path.png",
+    "Files/Hazard.md",
+    "README.md",
+    "Templete/Memo Template.md",
+    "Files/Integers.md",
+    "Attachment",
+    "Files",
+    "Templete"
+  ]
+}
