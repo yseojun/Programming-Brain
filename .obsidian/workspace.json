@@ -4,19 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "c6746fdf10fbba80",
+        "id": "9516cf6e4454fa59",
         "type": "tabs",
         "children": [
           {
-            "id": "753e79f743385602",
+            "id": "5a6f8653dfcb2e04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ca623c6cadfc73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e80cda7539dd9b3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "Files/컴퓨터 구조.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.00160319010417,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.5331568996691651,
+                  "close": true
+                }
               }
             }
           }
@@ -86,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/컴퓨터 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/컴퓨터 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Files/컴퓨터 구조.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,32 +177,41 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "753e79f743385602",
+  "active": "5a6f8653dfcb2e04",
   "lastOpenFiles": [
     "Seojun.md",
     "Files/언어.md",
-    "Files/웹.md",
+    "Files/torch.md",
+    "Files/이미지 처리.md",
+    "Files/python.md",
+    "Files/알고리즘.md",
+    "Files/Feature Points.md",
     "Files/컴퓨터 구조.md",
-    "Files/Frontend.md",
-    "Files/Direct Mapped Cache.md",
+    "Files/Chunk Format.md",
+    "Files/Chunk Stream.md",
+    "Files/RTMP.md",
+    "Files/Multimidea Service.md",
+    "Files/통신.md",
+    "Files/웹.md",
+    "Files/java.md",
     "Files/Cache.md",
-    "Files/Virtual memory.md",
-    "Files/Control hazard.md",
-    "Files/Pipe line.md",
-    "Files/Bubble.md",
-    "Templete/Study Template.md",
-    "Files/forwarding.md",
-    "Files/Data hazard.md",
+    "Files/Hit&Miss.md",
+    "Files/Set Associative Cache.md",
+    "Files/Fully Associative Cache.md",
+    "Files/Memory hierarchy.md",
     "Files/Structure hazard.md",
+    "Files/Virtual memory.md",
+    "Files/Principle of Locality.md",
+    "Files/Direct Mapped Cache.md",
+    "Attachment/Pasted image 20231205205948.png",
+    "Files/Miss penalty.md",
+    "Files/Memory Access Time.md",
+    "Hit ",
     "Attachment/Control & forwarding data path.png",
     "Attachment/instruction Control data path.png",
     "Attachment/Pipe line data path.png",
     "Attachment/Write back forward Data path.png",
     "Attachment/PC branch path.png",
-    "Files/Hazard.md",
-    "README.md",
-    "Templete/Memo Template.md",
-    "Files/Integers.md",
     "Attachment",
     "Files",
     "Templete"
