@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "11b289935ac31f0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1203c7847024cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3734ce0a7250bbbe",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5ccf172a3327c93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f335968cb497a85",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c2c9b5ed349436a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "987ca8d9859bbd35",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "017a763fc5be6c09",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "520b98ccc33feeda",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "757c62209cf9c244",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "beb85828d1af8b5a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "403bc8d32999bedc",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3734ce0a7250bbbe",
+  "lastOpenFiles": [
+    "Files/Android Studio.md",
+    "Files/SLAM.md",
+    "Files/Language.md",
+    "Seojun.md",
+    "Files/앱.md",
+    "README.md",
+    "Files/python.md",
+    "Files/Multimidea Service.md",
+    "Attachment/instruction Control data path.png",
+    "Files/알고리즘.md",
+    "Files/Set Associative Cache.md",
+    "Files/Fully Associative Cache.md",
+    "Attachment/Write back forward Data path.png",
+    "Files/forwarding.md",
+    "Files/Miss penalty.md",
+    "Files/Chunk Format.md",
+    "Files/RTMP.md",
+    "Files/Hit&Miss.md",
+    "Attachment/Pipe line data path.png",
+    "Attachment/Control & forwarding data path.png",
+    "Files/Memory Access Time.md",
+    "Files/java.md",
+    "Files/Chunk Stream.md",
+    "Files/Memory hierarchy.md",
+    "Attachment/PC branch path.png",
+    "Files/Principle of Locality.md",
+    "Attachment/Pasted image 20231205205948.png",
+    "Files/Structure hazard.md",
+    "Files/torch.md",
+    "Files/이미지 처리.md",
+    "Files/Feature Points.md",
+    "Files/통신.md"
+  ]
+}

@@ -11,8 +11,13 @@
             "id": "5a6f8653dfcb2e04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Files/Memory hierarchy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -27,6 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Files/Memory hierarchy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -49,7 +55,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.5331568996691651,
+                  "scale": 1.3922216003733432,
                   "close": true
                 }
               }
@@ -121,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Files/Memory hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Files/Memory hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Files/Memory hierarchy.md"
+              }
             }
           }
         ]
@@ -179,33 +189,33 @@
   },
   "active": "5a6f8653dfcb2e04",
   "lastOpenFiles": [
-    "Seojun.md",
-    "Files/언어.md",
-    "Files/torch.md",
-    "Files/이미지 처리.md",
-    "Files/python.md",
-    "Files/알고리즘.md",
-    "Files/Feature Points.md",
     "Files/컴퓨터 구조.md",
-    "Files/Chunk Format.md",
-    "Files/Chunk Stream.md",
+    "Files/Virtual memory.md",
+    "Seojun.md",
     "Files/RTMP.md",
     "Files/Multimidea Service.md",
     "Files/통신.md",
     "Files/웹.md",
+    "Files/이미지 처리.md",
+    "Files/알고리즘.md",
+    "Files/SLAM.md",
+    "Files/앱.md",
+    "Files/Language.md",
     "Files/java.md",
+    "Files/Android Studio.md",
     "Files/Cache.md",
+    "Files/Bubble.md",
+    "Files/python.md",
+    "Files/언어.md",
+    "Files/torch.md",
+    "Files/Feature Points.md",
+    "Files/Chunk Format.md",
+    "Files/Chunk Stream.md",
     "Files/Hit&Miss.md",
     "Files/Set Associative Cache.md",
     "Files/Fully Associative Cache.md",
     "Files/Memory hierarchy.md",
-    "Files/Structure hazard.md",
-    "Files/Virtual memory.md",
-    "Files/Principle of Locality.md",
-    "Files/Direct Mapped Cache.md",
     "Attachment/Pasted image 20231205205948.png",
-    "Files/Miss penalty.md",
-    "Files/Memory Access Time.md",
     "Hit ",
     "Attachment/Control & forwarding data path.png",
     "Attachment/instruction Control data path.png",
