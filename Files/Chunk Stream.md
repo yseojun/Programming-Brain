@@ -17,6 +17,9 @@
 - Chunk마다 Chunk Header가 붙어 전송된다
 - Chunk Header는 Basic Header, Message Header, Extend Timestamp로 이루어져 있다
 
+### Control Message
+- Chunk Stream ID 2
+- Message Stream ID 0
 
 ---
 #통신

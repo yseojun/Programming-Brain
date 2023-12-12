@@ -23,7 +23,7 @@
 	- [[HTTP]] 헤더로 인해 기본 RTMP보다는 크기가 크다
 - RTMPS (Secure)
 	- 데이터를 [[HTTPS]]로 감싼 것
-	- TLS/SSL connection상에서 동작한다
+	- TLS/SSL connection상에서 동작한7666ㅛ7다
 - RTMPE (Encrypted)
 	- 128비트로 암호화 된 RTMP
 	- SSL 인증 절차가 없다
@@ -41,10 +41,10 @@
 ### 동작 과정
 - Handshake
 	- 컨텐츠의 복제를 방지
-	- Client가 0x03을 보내고 임의의 byte들을 전송하게 되면, Server가 Client에게 0x03과 수신받은 동일한 임의의 byte들로 응답하여 통신을 시작한다
+	- Client가 '0x03'을 보내고 임의의 byte들을 전송하게 되면, Server가 Client에게 '0x03'과 '수신받은 byte와 동일한' 임의의 byte들로 응답하여 통신을 시작한다
 - [[Chunk Stream]]
 	- 데이터를 종류별로 나누어 종류별로 Chunk Stream을 만들고, Chunk Stream은 Chunk들로 이루어져있다
-	- 이렇게 보내진 Chunk Stream은 동일한 timestamp로 demutiplex 되는데, 각각의 Chunk들을 Chunk stream ID를 근거로 하나의 Chunk Stream으로 합친다
+	- 이렇게 보내진 Chunk Stream은 동일한 timestamp로 demultiplex 되는데, 각각의 Chunk들을 **Chunk stream ID**를 근거로 하나의 Chunk Stream으로 합친다
 
 ---
 #통신
