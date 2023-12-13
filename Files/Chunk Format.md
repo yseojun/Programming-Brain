@@ -5,20 +5,20 @@
 ---
 ### Chunk Format
 > Basic Header | Message Header | Extended Timestamp | Chunk Data
-### 1. Basic Header (1~3 bytes)
+### 1. [[Basic Header]] (1~3 bytes)
 - Chunk Stream ID와 Chunk type을 저장
 - 길이는 Chunk Stream ID에 따라 결정된다
 - 맨 앞 2 bit는 fmt로 구성
 - 2~63 th : 1 byte
 - 64~319 th : 2 byte
-- 64~655git clone  git commit- Basic Header (1~3 bytes)
+- 64~655 th
 	- Chunk Stream ID와 Chunk type을 저장
 	- 길이는 Chunk Stream ID에 따라 결정된다
 	- 맨 앞 2 bit는 fmt로 구성
 	- 2~63 th : 1 byte
 	- 64~319 th : 2 byte
 	- 64~65599 th : 3 byte
-### 2. Mesasge Header (0, 3, 7, 11 bytes)
+### 2. [[Mesasge Header]] (0, 3, 7, 11 bytes)
 ##### 4개의 type이 있는 이유?
 - header를 압축하기 위해
 
@@ -40,7 +40,7 @@
 ##### Type 3 (0 bytes)
 - Message header가 존재하지 않는다
 - 자동으로 앞선 Chunk와 같은 Chunk Stream ID를 가진다
-### 3. Extend Timestamp (0, 4 bytes)
+### 3. [[Extend Timestamp]] (0, 4 bytes)
 
 
 ---

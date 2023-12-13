@@ -1,6 +1,6 @@
 ### Sender cite
 ![[Pasted image 20231212173027.png]]
-
+- Container Format : Video & Audio 를 한번에 보내기 위한 포맷
 ### Recever cite
 ![[Pasted image 20231212173130.png]]
 

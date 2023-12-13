@@ -23,7 +23,7 @@
 	- [[HTTP]] 헤더로 인해 기본 RTMP보다는 크기가 크다
 - RTMPS (Secure)
 	- 데이터를 [[HTTPS]]로 감싼 것
-	- TLS/SSL connection상에서 동작한7666ㅛ7다
+	- TLS/SSL connection상에서 동작한다
 - RTMPE (Encrypted)
 	- 128비트로 암호화 된 RTMP
 	- SSL 인증 절차가 없다

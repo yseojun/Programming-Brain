@@ -25,11 +25,9 @@
 
 ## 개념
 - Full duplex & bi-directional 단일 socket 연결 형식
-- 한 번 요청하고 연결이 이뤄지면 Server와 Client모두 언제든지 메시지를 송신할 수 있게 되기 때문에 지연이 많이 줄어듦
-- [[TCP]] 기반으로 동작
+- 한 번 요청하고 연결이 이뤄지면 Server와 Client 모두 언제든지 메시지를 송신할 수 있게 되기 때문에 지연이 많이 줄어듦
+- [[TCP]] 기반 동작
 - 요청-응답의 구조에서 벗어남
 - Client의 단 한가지 요구조건은 javaScript library를 실행할 수 있어야 한다
-- 
-
 ---
 #통신 

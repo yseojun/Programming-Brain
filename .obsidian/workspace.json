@@ -6,62 +6,64 @@
       {
         "id": "9516cf6e4454fa59",
         "type": "tabs",
-        "dimension": 73.42560553633218,
+        "dimension": 66.47121535181236,
         "children": [
           {
-            "id": "5a6f8653dfcb2e04",
+            "id": "9508ddffb401c301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/Android Studio.md",
-                "mode": "source",
+                "file": "Files/UHDTV.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "d1dffa614d939dff"
           }
         ]
       },
       {
-        "id": "8ca623c6cadfc73d",
+        "id": "1605184df90406aa",
         "type": "tabs",
-        "dimension": 26.574394463667822,
+        "dimension": 33.52878464818763,
         "children": [
           {
-            "id": "4e80cda7539dd9b3",
+            "id": "36727b5ec4049a91",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Files/Android Studio.md",
+                "file": "Files/UHDTV.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.00160319010417,
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.16722206236259,
+                  "scale": 0.6980505142714108,
                   "close": true
                 }
               }
-            }
+            },
+            "group": "d1dffa614d939dff"
           }
         ]
       }
@@ -113,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d63e834e087781a4",
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Android Studio.md",
+                "file": "Files/UHDTV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Android Studio.md",
+                "file": "Files/UHDTV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Android Studio.md"
+                "file": "Files/UHDTV.md"
               }
             }
           }
@@ -190,34 +193,34 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "5a6f8653dfcb2e04",
+  "active": "9508ddffb401c301",
   "lastOpenFiles": [
-    "Files/Dialog_Java.md",
-    "Files/Android Studio.md",
-    "Files/Menu_Java.md",
-    "Files/Layout_Java.md",
-    "Files/File_Java.md",
-    "Files/View_Java.md",
-    "Files/Threads_Java.md",
-    "Files/Threads_Java.md",
-    "Files/Manifest.md",
-    "Files/Application permission.md",
-    "Files/Intent.md",
-    "Files/Extra.md",
-    "Files/앱.md",
-    "Files/Toast.md",
-    "Files/Log.md",
-    "Files/Activity.md",
-    "Files/java.md",
-    "Files/Language.md",
-    "Seojun.md",
-    "Files/WebRTC.md",
-    "Files/UDP.md",
+    "Files/Digital Broadcast.md",
     "Files/Multimidea Service.md",
     "Files/Web Socket.md",
-    "Files/TCP.md",
+    "Files/WebRTC.md",
+    "Files/Multimedia Streaming.md",
+    "Files/RTMP.md",
+    "Files/Chunk Stream.md",
+    "Files/Chunk Format.md",
+    "Seojun.md",
+    "Files/HTTPS.md",
+    "Files/HTTP.md",
+    "Files/HLS.md",
+    "Files/이미지 처리.md",
+    "Files/알고리즘.md",
+    "Files/데이터 구조.md",
     "Files/통신.md",
     "Files/웹.md",
+    "Files/앱.md",
+    "Files/Android Studio.md",
+    "Files/Layout_Java.md",
+    "Files/View_Java.md",
+    "Files/File_Java.md",
+    "Files/Threads_Java.md",
+    "Files/Intent.md",
+    "Files/Toast.md",
+    "Files/Log.md",
     "Attachment/Pasted image 20231212174742.png",
     "Attachment/Pasted image 20231212173130.png",
     "Attachment/Pasted image 20231212173027.png",
