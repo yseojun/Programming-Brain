@@ -6,7 +6,7 @@
       {
         "id": "9516cf6e4454fa59",
         "type": "tabs",
-        "dimension": 66.47121535181236,
+        "dimension": 63.2258064516129,
         "children": [
           {
             "id": "9508ddffb401c301",
@@ -14,20 +14,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/UHDTV.md",
-                "mode": "preview",
+                "file": "Files/Camera 좌표계 변환.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
             "group": "d1dffa614d939dff"
+          },
+          {
+            "id": "d3892bfe79b76129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/전기자기학 임시.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28b6d3cfe44edcc1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       },
       {
         "id": "1605184df90406aa",
         "type": "tabs",
-        "dimension": 33.52878464818763,
+        "dimension": 36.774193548387096,
         "children": [
           {
             "id": "36727b5ec4049a91",
@@ -35,7 +56,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Files/UHDTV.md",
+                "file": "Files/Camera 좌표계 변환.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -58,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6980505142714108,
+                  "scale": 2.4223665456569323,
                   "close": true
                 }
               }
@@ -115,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d63e834e087781a4",
@@ -132,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/UHDTV.md",
+                "file": "Files/Camera 좌표계 변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/UHDTV.md",
+                "file": "Files/Camera 좌표계 변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/UHDTV.md"
+                "file": "Files/Camera 좌표계 변환.md"
               }
             }
           }
@@ -195,6 +215,29 @@
   },
   "active": "9508ddffb401c301",
   "lastOpenFiles": [
+    "Seojun.md",
+    "Files/Web.md",
+    "Files/Computer Architechture.md",
+    "Files/전기자기학 임시.md",
+    "Attachment/Pasted image 20231213215110.png",
+    "Attachment/Pasted image 20231213215047.png",
+    "Attachment/Pasted image 20231213215027.png",
+    "Attachment/Pasted image 20231213215007.png",
+    "Files/Camera 좌표계 변환.md",
+    "Files/이미지 처리.md",
+    "Files/Homography.md",
+    "Files/Algorithm.md",
+    "Files/App.md",
+    "Attachment/Pasted image 20231213211004.png",
+    "Files/Feature Points.md",
+    "Files/RANSAC.md",
+    "Files/SIFT.md",
+    "Files/Harris Corner Detector.md",
+    "Attachment/SIFT.png",
+    "Files/R (Harris Corner Detector).md",
+    "Attachment/Pasted image 20231213180142.png",
+    "Attachment/Harris Corner R.png",
+    "Files/UHDTV.md",
     "Files/Digital Broadcast.md",
     "Files/Multimidea Service.md",
     "Files/Web Socket.md",
@@ -203,36 +246,12 @@
     "Files/RTMP.md",
     "Files/Chunk Stream.md",
     "Files/Chunk Format.md",
-    "Seojun.md",
     "Files/HTTPS.md",
     "Files/HTTP.md",
-    "Files/HLS.md",
-    "Files/이미지 처리.md",
-    "Files/알고리즘.md",
-    "Files/데이터 구조.md",
-    "Files/통신.md",
-    "Files/웹.md",
-    "Files/앱.md",
-    "Files/Android Studio.md",
-    "Files/Layout_Java.md",
-    "Files/View_Java.md",
-    "Files/File_Java.md",
-    "Files/Threads_Java.md",
-    "Files/Intent.md",
-    "Files/Toast.md",
-    "Files/Log.md",
     "Attachment/Pasted image 20231212174742.png",
     "Attachment/Pasted image 20231212173130.png",
-    "Attachment/Pasted image 20231212173027.png",
-    "Attachment/Pasted image 20231208191400.png",
     "I",
-    "Attachment/Pasted image 20231205205948.png",
     "Hit ",
-    "Attachment/Control & forwarding data path.png",
-    "Attachment/instruction Control data path.png",
-    "Attachment/Pipe line data path.png",
-    "Attachment/Write back forward Data path.png",
-    "Attachment/PC branch path.png",
     "Attachment",
     "Files",
     "Templete"

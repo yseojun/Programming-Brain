@@ -1,6 +1,6 @@
 - # [[Language]]
-- # [[웹]]
-- # [[앱]]
-- # [[컴퓨터 구조]]
-- # [[알고리즘]]
+- # [[Web]]
+- # [[App]]
+- # [[Computer Architechture]]
+- # [[Algorithm]]
 - 
