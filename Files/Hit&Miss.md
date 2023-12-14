@@ -3,9 +3,9 @@
 ---
 ###  내용
 ### Miss의 종류
-	1. Compulsory misses - 제일 처음 miss
-	2. Capacity misses - 용량 부족
-	3. Conflict misses - 충돌, 덮어쓰기
+1. [[Compulsory miss]] - 제일 처음 miss
+2. [[Capacity miss]] - 용량 부족
+3. [[Conflict miss]] - 충돌, 덮어쓰기
 
 ###  Hit rate & Miss rate
 Hit와 Miss의 비율을 측정해 `Hit rate`, `Miss rate`라고 한다
@@ -16,6 +16,8 @@ Hit와 Miss의 비율을 측정해 `Hit rate`, `Miss rate`라고 한다
 고정된 Cache size에서 block의 크기를 키우면 block의 개수가 적어지고, 이는 miss rate를 높이게 된다
 ![[Pasted image 20231205205948.png]]
 이렇게 block size가 커질 수록 Miss rate가 줄어드는 듯 하다가도, 일정 수준 이상 올라가면 효과가 없고, 오히려 Miss rate가 높아지기까지 한다
+캐시의 총 크기에 비해 블록의 개수가 많을수록 오히려 Miss rate는 높아진다
+
 
 ### Hit time
 `Hit time`은 메모리 구조에서 상위 계층에 접근하는 시간이며, Hit/Miss를 결정하는데 필요한 시간이 포함된다

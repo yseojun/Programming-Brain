@@ -10,7 +10,4 @@
 ![[PC branch path.png]]
 
 ---
-### 연결
->[[Pipe line]]
----
 #컴퓨터구조

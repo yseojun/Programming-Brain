@@ -4,15 +4,15 @@
 ---
 ###  내용
 ![[Control & forwarding data path.png]]
-#### 1. Execution
-
-#### 2. Load
+#### Forwarding이 필요한 2가지 경우
+1. Execution 결과값 -> Execution
+2. Load 해야할 값 -> Execution
 
 이런 forwarding을 활용해도 어쩔수 없이 지연해야하는 상황도 존재한다
 이런 지연을 [[Bubble]] 이라고 컴퓨터구조에서 부른다
 
 #### Forwarding Unit
-Forwarding unit은 ID/EX에서 Rs1, Rs2를 전달 받고,
+Forwarding unit은 ID/EX 에서 Rs1, Rs2를 전달 받고,
 EX/MEM 혹은 MEM/WB에서 Rd, WB비트를 전달 받는다
 이 때 WB 비트이면서 Rs1 혹은 Rs2가 ***이전 instrutcion의 Rd***와 같다면, Forwarding을 해야한다
 
