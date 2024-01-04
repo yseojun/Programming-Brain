@@ -6,99 +6,100 @@
       {
         "id": "9516cf6e4454fa59",
         "type": "tabs",
-        "dimension": 63.34214002642008,
         "children": [
           {
             "id": "9508ddffb401c301",
             "type": "leaf",
             "state": {
+              "type": "juggl_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1eaa4cf98845f6d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/Computer Architechture.md",
+                "file": "Files/이미지 처리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "d1dffa614d939dff"
-          }
-        ]
-      },
-      {
-        "id": "b3fd9474525d0d1d",
-        "type": "split",
-        "dimension": 36.65785997357992,
-        "children": [
-          {
-            "id": "1dfefa4058e08ac5",
-            "type": "tabs",
-            "dimension": 74.58333333333333,
-            "children": [
-              {
-                "id": "36727b5ec4049a91",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Files/Computer Architechture.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 5,
-                      "localBacklinks": false,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": -1,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1.502234856888004,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "d1dffa614d939dff"
-              }
-            ]
+            }
           },
           {
-            "id": "57e595781c3b264a",
-            "type": "tabs",
-            "dimension": 25.416666666666664,
-            "children": [
-              {
-                "id": "522aea96e2e64181",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Files/Computer Architechture.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "group": "d1dffa614d939dff"
+            "id": "21893a0e1f6bc6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/캡스톤.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "dde7dd3a0fc59e48",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "c678b401bb2b504f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/Memo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f7323cb12ae711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/PlenOctrees.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "982b0b87997aa5d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/PlenOctrees 논문 번역본 초안.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2eb7a038911676d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Computer Architechture.md",
+                "file": "Files/캡스톤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Computer Architechture.md",
+                "file": "Files/캡스톤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,17 +206,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Computer Architechture.md"
+                "file": "Files/캡스톤.md"
               }
             }
+          },
+          {
+            "id": "30c21f681ad623c5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "acd86588e2d3ee72",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,47 +239,47 @@
       "command-palette:명령어 팔레트 열기": false,
       "graph:그래프 뷰 열기": false,
       "templates:템플릿 삽입": false,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": true,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "9508ddffb401c301",
+  "active": "b2eb7a038911676d",
   "lastOpenFiles": [
+    "Files/Memo.md",
+    "Files/NERF.md",
+    "Files/캡스톤.md",
+    "Files/PlenOctrees 논문 번역본 초안.md",
+    "Files/PlenOctrees.md",
+    "Seojun.md",
+    "Attachment/Pasted image 20231228094716.png",
+    "Attachment/Pasted image 20231228094058.png",
+    "Attachment/Pasted image 20231228094033.png",
+    "Attachment/Pasted image 20231228093912.png",
+    "Attachment/Pasted image 20231228093846.png",
+    "Project.md",
+    "Files/이미지 처리.md",
+    "Files/SLAM.md",
+    "Files/Point-SLAM.md",
+    "Files/Algorithm.md",
+    "Files/진행과정.md",
+    "README.md",
+    "Files/Harris Corner Detector.md",
+    "Archive.md",
+    "Files/ffmpeg.md",
+    "Files/MPEG-DASH.md",
+    "Files/Web.md",
+    "Files/통신.md",
+    "Files/Computer Architechture.md",
     "Files/I&O Device.md",
     "Files/DMA controller.md",
-    "Files/Computer Architechture.md",
     "Files/Performance.md",
     "Files/Benchmarks.md",
     "Files/Virtual memory.md",
-    "Files/TLB.md",
-    "Files/Page (virtual memory).md",
-    "Files/Memory hierarchy.md",
-    "Files/Cache.md",
-    "Files/Pipe line.md",
-    "Files/Hit&Miss.md",
-    "Files/Miss penalty.md",
-    "Files/Cache Coherence.md",
-    "Files/Snoopy protocol.md",
-    "Files/Memory Access Time.md",
-    "Files/Direct Mapped Cache.md",
-    "Files/Principle of Locality.md",
-    "Files/Hazard.md",
-    "Files/Control hazard.md",
-    "Files/Data hazard.md",
-    "Files/Bubble.md",
     "Attachment/Hazard detection unit.png",
-    "Files/forwarding.md",
-    "Files/Structure hazard.md",
-    "Seojun.md",
-    "Files/전기자기학 임시.md",
     "Attachment/Pasted image 20231213215047.png",
     "Attachment/Pasted image 20231213215110.png",
     "Attachment/Pasted image 20231213215027.png",
     "Attachment/Pasted image 20231213215007.png",
-    "Attachment/Pasted image 20231213211004.png",
-    "Attachment/SIFT.png",
-    "Attachment/Pasted image 20231213180142.png",
-    "Attachment/Harris Corner R.png",
-    "Attachment/Pasted image 20231212174742.png",
     "I",
     "Hit ",
     "Attachment",
