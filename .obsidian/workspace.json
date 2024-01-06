@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9508ddffb401c301",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c1eaa4cf98845f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Files/이미지 처리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21893a0e1f6bc6f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Files/캡스톤.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dde7dd3a0fc59e48",
             "type": "leaf",
             "pinned": true,
@@ -57,7 +23,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/Memo.md",
+                "file": "Files/NeRF.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7404d09567113d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/PlenOctree.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "118f25c45694f8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/PlenOctree 환경 시도.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e640d77af44ea9ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files/rtoctree.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/PlenOctrees.md",
+                "file": "Files/PlenOctree.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/캡스톤.md",
+                "file": "Files/PlenOctree 환경 시도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/캡스톤.md",
+                "file": "Files/PlenOctree 환경 시도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/캡스톤.md"
+                "file": "Files/PlenOctree 환경 시도.md"
               }
             }
           },
@@ -243,13 +248,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b2eb7a038911676d",
+  "active": "118f25c45694f8b6",
   "lastOpenFiles": [
+    "Files/PlenOctree.md",
+    "Files/PlenOctree 환경 시도.md",
+    "Files/NeRF 블로그 요약.md",
+    "Files/NeRF.md",
     "Files/Memo.md",
-    "Files/NERF.md",
+    "Files/rtoctree.md",
     "Files/캡스톤.md",
     "Files/PlenOctrees 논문 번역본 초안.md",
-    "Files/PlenOctrees.md",
     "Seojun.md",
     "Attachment/Pasted image 20231228094716.png",
     "Attachment/Pasted image 20231228094058.png",
@@ -273,8 +281,6 @@
     "Files/I&O Device.md",
     "Files/DMA controller.md",
     "Files/Performance.md",
-    "Files/Benchmarks.md",
-    "Files/Virtual memory.md",
     "Attachment/Hazard detection unit.png",
     "Attachment/Pasted image 20231213215047.png",
     "Attachment/Pasted image 20231213215110.png",
