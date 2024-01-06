@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dde7dd3a0fc59e48",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "c678b401bb2b504f",
+            "id": "c5f7323cb12ae711",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,12 +21,12 @@
             }
           },
           {
-            "id": "7404d09567113d32",
+            "id": "14b6a02d4d1781ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/PlenOctree.md",
+                "file": "Files/NeRF 논문 번역본.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,12 +34,12 @@
             }
           },
           {
-            "id": "118f25c45694f8b6",
+            "id": "6ec2131efd0615db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/PlenOctree 환경 시도.md",
+                "file": "Files/NeRF 블로그 요약.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,25 +47,12 @@
             }
           },
           {
-            "id": "e640d77af44ea9ff",
+            "id": "410c2179d23ae050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/rtoctree.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f7323cb12ae711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Files/PlenOctree.md",
+                "file": "Files/NeRF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/PlenOctree 환경 시도.md",
+                "file": "Files/NeRF 논문 번역본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/PlenOctree 환경 시도.md",
+                "file": "Files/NeRF 논문 번역본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/PlenOctree 환경 시도.md"
+                "file": "Files/NeRF 논문 번역본.md"
               }
             }
           },
@@ -248,15 +225,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "118f25c45694f8b6",
+  "active": "14b6a02d4d1781ce",
   "lastOpenFiles": [
+    "Files/NeRF.md",
+    "Files/NeRF 논문 번역본.md",
+    "Files/NeRF 블로그 요약.md",
+    "Files/캡스톤.md",
     "Files/PlenOctree.md",
     "Files/PlenOctree 환경 시도.md",
-    "Files/NeRF 블로그 요약.md",
-    "Files/NeRF.md",
     "Files/Memo.md",
     "Files/rtoctree.md",
-    "Files/캡스톤.md",
     "Files/PlenOctrees 논문 번역본 초안.md",
     "Seojun.md",
     "Attachment/Pasted image 20231228094716.png",
@@ -280,7 +258,6 @@
     "Files/Computer Architechture.md",
     "Files/I&O Device.md",
     "Files/DMA controller.md",
-    "Files/Performance.md",
     "Attachment/Hazard detection unit.png",
     "Attachment/Pasted image 20231213215047.png",
     "Attachment/Pasted image 20231213215110.png",

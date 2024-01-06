@@ -1,3 +1,12 @@
+### 세팅 시도 정보
+```
+conda create -n plenoctree python=3.8.8
+conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
+conda install tqdm
+pip install -r requirements.txt
+pip install flax==0.5.1
+pip install --upgrade "jax[cuda11_pip]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+```
 ### jax
 - [x] 0.4.23
 - [ ] 0.4.22
