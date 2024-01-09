@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/NeRF.md",
+                "file": "Files/NeuLF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/NeRF 논문 번역본.md",
+                "file": "Files/NeuLF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/NeRF 논문 번역본.md",
+                "file": "Files/NeuLF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/NeRF 논문 번역본.md"
+                "file": "Files/NeuLF.md"
               }
             }
           },
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +226,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "14b6a02d4d1781ce",
+  "active": "410c2179d23ae050",
   "lastOpenFiles": [
+    "NeuLF.pdf",
+    "Files/NeuLF 논문.md",
+    "Files/NeRF 블로그 요약.md",
+    "Attachment/Pasted image 20240109223659.png",
+    "Files/NeuLF.md",
+    "Files/캡스톤.md",
     "Files/NeRF.md",
     "Files/NeRF 논문 번역본.md",
-    "Files/NeRF 블로그 요약.md",
-    "Files/캡스톤.md",
     "Files/PlenOctree.md",
     "Files/PlenOctree 환경 시도.md",
     "Files/Memo.md",
@@ -255,14 +260,10 @@
     "Files/MPEG-DASH.md",
     "Files/Web.md",
     "Files/통신.md",
-    "Files/Computer Architechture.md",
-    "Files/I&O Device.md",
-    "Files/DMA controller.md",
     "Attachment/Hazard detection unit.png",
     "Attachment/Pasted image 20231213215047.png",
     "Attachment/Pasted image 20231213215110.png",
     "Attachment/Pasted image 20231213215027.png",
-    "Attachment/Pasted image 20231213215007.png",
     "I",
     "Hit ",
     "Attachment",
